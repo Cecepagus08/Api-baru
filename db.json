@@ -3,10 +3,20 @@
     
       "id": "1",
       "nama": "Cecep Agus",
-      "hoby": "coding",
-      "tempatTinggal": "Palangkaraya, Kalimantan Tengah",
-      "kelas": "X RPL 2",
-      "about": "lordjjdjdjd dhdhdhhdd dhhdhdbd dhdh",
+      "hoby": "coding, bermain game dan belajar hal baru",
+      "tempatTinggal": "Palangka raya, Kalimantan Tengah",
+      "kelas": "XI RPL-2",
+      "about": "-",
+      "sosmed": [
+        {
+          "instagram":"Cecep_agus08",
+          "link": "https://www.instagram.com/cecep_agus08"
+        },
+        {
+          "Tik-tok": "cegus",
+          "link": "kafan kafan"
+        }
+      ],
       "bahasaYangDikuasai": [
         {
           "icon": "https://i.ibb.co.com/FY4NgXM/20240921-112507.png",
