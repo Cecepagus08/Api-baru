@@ -19,113 +19,35 @@
       ],
       "bahasaYangDikuasai": [
         {
-          "FrontEnd": [
-            {
-              "name": "HTML5",
-              "icon": "FaHtml5",
-              "color": "text-orange-500"
-            },
-            {
-              "name": "CSS3",
-              "icon": "FaCss3Alt",
-              "color": "text-blue-500"
-            },
-            {
-              "name": "JavaScript",
-              "icon": "FaJsSquare",
-              "color": "text-yellow-500"
-            },
-            {
-              "name": "React",
-              "icon": "FaReact",
-              "color": "text-cyan-500"
-            },
-            {
-              "name": "Vue.js",
-              "icon": "FaVuejs",
-              "color": "text-green-500"
-            },
-            {
-              "name": "bootsrap",
-              "icon": "FaBootstrap",
-              "color": "text-purple-500"
-            },
-            {
-              "name": "Tailwind",
-              "icon": {
-                "svg": "<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' width='100' height='100' viewBox='0 0 48 48'><path fill='#00acc1' d='M24,9.604c-6.4,0-10.4,3.199-12,9.597c2.4-3.199,5.2-4.398,8.4-3.599 c1.826,0.456,3.131,1.781,4.576,3.247C27.328,21.236,30.051,24,36,24c6.4,0,10.4-3.199,12-9.598c-2.4,3.199-5.2,4.399-8.4,3.6 c-1.825-0.456-3.13-1.781-4.575-3.247C32.672,12.367,29.948,9.604,24,9.604L24,9.604z M12,24c-6.4,0-10.4,3.199-12,9.598 c2.4-3.199,5.2-4.399,8.4-3.599c1.825,0.457,3.13,1.781,4.575,3.246c2.353,2.388,5.077,5.152,11.025,5.152 c6.4,0,10.4-3.199,12-9.598c-2.4,3.199-5.2,4.399-8.4,3.599c-1.826-0.456-3.131-1.781-4.576-3.246C20.672,26.764,17.949,24,12,24 L12,24z'></path></svg>"
-              },
-              "color": "text-purple-500"
-            }
-          ]
-          "BackEnd": [
-            {
-              "name": "Node.js",
-              "icon": "FaNodeJs",
-              "color": "text-green-600"
-            },
-            {
-              "name": "Python",
-              "icon": "FaPython",
-              "color": "text-blue-400"
-            },
-            {
-              "name": "PHP",
-              "icon": "FaPhp",
-              "color": "text-indigo-500"
-            }
-
-          ],
-          "Database":[
-                        {
-              "name": "MySQL",
-              "icon": "FaDatabase",
-              "color": "text-purple-500"
-            },
-            {
-              "name": "Firebase",
-              "icon": {
-                "svg": "<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' width='100' height='100' viewBox='0 0 48 48'><path fill='#ff8f00' d='M8,37L23.234,8.436c0.321-0.602,1.189-0.591,1.494,0.02L30,19L8,37z'></path><path fill='#ffa000' d='M8,36.992l5.546-34.199c0.145-0.895,1.347-1.089,1.767-0.285L26,22.992L8,36.992z'></path><path fill='#ff6f00' d='M8.008 36.986L8.208 36.829 25.737 22.488 20.793 13.012z'></path><path fill='#ffc400' d='M8,37l26.666-25.713c0.559-0.539,1.492-0.221,1.606,0.547L40,37l-15,8.743 c-0.609,0.342-1.352,0.342-1.961,0L8,37z'></path></svg>"
-              },
-              "color": "text-purple-500"
-            }
-            ]
+          "icon": "https://i.ibb.co.com/FY4NgXM/20240921-112507.png",
+          "alt": "HTML Icon"
+        },
+        {
+          "icon": "https://i.ibb.co.com/cLrpZyf/20240921-112250.png",
+          "alt": "JavaScript Icon"
+        },
+        {
+          "icon": "https://i.ibb.co.com/phmk1m9/20240921-112537.png",
+          "alt": "CSS Icon"
+        },
+        {
+          "icon": "https://i.ibb.co.com/sbyDcFW/20240921-112814.png",
+          "alt": "Bootstrap Icon"
+        },
+        {
+          "icon": "https://i.ibb.co.com/rycLpTg/20240921-112737.png",
+          "alt": "React Icon"
+        },
+        {
+          "icon": "https://i.ibb.co.com/WkjWfzT/20240921-112848.png",
+          "alt": "Tailwind Icon"
+        },
+        {
+          "icon": "https://i.ibb.co.com/BGmZdvS/20240921-112620.png",
+          "alt": "Python Icon"
         }
-
       ],
       "postingan": [
-          {
-            "id": "2",
-            "title": "Penerjemah Bahasa Dayak Ngaju",
-            "description": "Daju Translate adalah website penerjemah Bahasa Dayak Ngaju ke Bahasa Indonesia berbasis kamus, yang memudahkan belajar dan komunikasi secara cepat dan efisien",
-            "image_url": "https://api.gmbr.web.id/image/35642",
-            "featured": false,
-            "github_url": "github.com/cecepagus08",
-            "website_url": "daju.my.id",
-            "technologies": [
-              "React",
-              "daisyUI",
-              "Tailwind",
-              "Vite ",
-              "CSS"
-            ]
-          },
-          {
-            "id": "1",
-            "title": "Task Management App",
-            "description": "A collaborative task management application with real-time updates",
-            "image_url": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg",
-            "featured": false,
-            "github_url": "https://github.com",
-            "website_url": "https://google.com",
-            "technologies": [
-              "Vue.js",
-              "Express",
-              "Socket.io",
-              "PostgreSQL"
-            ]
-          }
-        
 
       ]
     
