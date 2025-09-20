@@ -6,6 +6,7 @@
   "tempatTinggal": "Palangka raya, Kalimantan Tengah",
   "kelas": "XI RPL-2",
   "about": "-",
+  "foto" : "https://raw.githubusercontent.com/Cecepagus08/myCloudGambar/refs/heads/main/assetsPortofolio/mY.jpg",
   "sosmed": [
     {
       "instagram": "Cecep_agus08",
@@ -95,7 +96,7 @@
       "id": "2",
       "title": "Penerjemah Bahasa Dayak Ngaju",
       "description": "Daju Translate adalah website penerjemah Bahasa Dayak Ngaju ke Bahasa Indonesia berbasis kamus, yang memudahkan belajar dan komunikasi secara cepat dan efisien",
-      "image_url": "https://api.gmbr.web.id/image/35642",
+      "image_url": "https://raw.githubusercontent.com/Cecepagus08/myCloudGambar/refs/heads/main/assetsPortofolio/project/daju.jpg",
       "featured": false,
       "github_url": "https://github.com/cecepagus08",
       "website_url": "https://daju.my.id",
@@ -109,17 +110,17 @@
     },
     {
       "id": "1",
-      "title": "Task Management App",
-      "description": "A collaborative task management application with real-time updates",
-      "image_url": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg",
+      "title": "scribdAcces",
+      "description": "useful website to access Scribd files for free",
+      "image_url": "https://raw.githubusercontent.com/Cecepagus08/myCloudGambar/refs/heads/main/assetsPortofolio/project/scribdAcces.jpg",
       "featured": false,
-      "github_url": "https://github.com",
-      "website_url": "https://google.com",
+      "github_url": "https://github.com/Cecepagus08",
+      "website_url": "https://scribd-acces.vercel.app",
       "technologies": [
-        "Vue.js",
-        "Express",
-        "Socket.io",
-        "PostgreSQL"
+        "Html",
+        "css",
+        "JavaScript",
+        "Bootstrap"
       ]
     }
   ]
